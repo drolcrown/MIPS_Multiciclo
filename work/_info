@@ -1,0 +1,1066 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\rafael.fsouza\Documents\OAC\Final
+Eadder
+Z0 w1544273017
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx4 work 4 pack 0 22 bC1SC6DQjz=W`Cm;14k302
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+Z5 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z6 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z7 dC:\Users\rafael.fsouza\Documents\OAC\Trabalho_Final
+Z8 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd
+Z9 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd
+l0
+L10
+VUB0AUCP9iaXX2k<L1]Mhg1
+Z10 OV;C;10.1d;51
+32
+Z11 !s108 1544288785.403000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd|
+Z13 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd|
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+!s100 81_7EmTibeffzW<J]R>G`0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 5 adder 0 22 UB0AUCP9iaXX2k<L1]Mhg1
+l22
+L21
+Vkg0?c:_h[JoaGT<TV]g:M1
+R10
+32
+R11
+R12
+R13
+R14
+R15
+!s100 ;MbUAQj9ZLnUH@g62kQ0M1
+!i10b 1
+Ealu_ctr
+Z16 w1544275290
+R1
+R2
+R5
+R6
+R7
+Z17 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd
+Z18 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd
+l0
+L9
+V8PBQJnE8HFOcLPz9<SANK2
+R10
+32
+Z19 !s108 1544288785.762000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd|
+Z21 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd|
+R14
+R15
+!s100 RVlF@9dgCSV1fLb>5QB[E0
+!i10b 1
+Abehav
+R1
+R2
+R5
+R6
+DEx4 work 7 alu_ctr 0 22 8PBQJnE8HFOcLPz9<SANK2
+l20
+L18
+V:m?6FMZh?Bl<@MjE6Y_H82
+R10
+32
+R19
+R20
+R21
+R14
+R15
+!s100 ;afL:z;M2Q_Z^D;jUJkWE2
+!i10b 1
+Ebreg
+Z22 w1544273035
+R1
+R2
+R3
+Z23 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R5
+R6
+R7
+Z24 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd
+Z25 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd
+l0
+L11
+V9ERCf?71Cg2Q8MB_?`U2a1
+R10
+32
+Z26 !s108 1544288786.105000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd|
+Z28 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd|
+R14
+R15
+!s100 g;gQg>:jPJR]W:VH6GAh62
+!i10b 1
+Artl
+R1
+R2
+R3
+R23
+R5
+R6
+DEx4 work 4 breg 0 22 9ERCf?71Cg2Q8MB_?`U2a1
+l33
+L29
+VhLh6FKm>zU8ijn>0AV4HA1
+R10
+32
+R26
+R27
+R28
+R14
+R15
+!s100 ROHF1F;ozH1VnISS5D3D<3
+!i10b 1
+Eclk_div
+Z29 w1544187888
+R3
+R23
+R5
+R6
+R7
+Z30 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd
+Z31 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd
+l0
+L8
+VIN]5W]TFd5Sai?G:bGbPB3
+R10
+32
+Z32 !s108 1544288786.449000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd|
+Z34 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd|
+R14
+R15
+!s100 cj;V<3Z178izZT^AeJmC32
+!i10b 1
+Artl
+R3
+R23
+R5
+R6
+DEx4 work 7 clk_div 0 22 IN]5W]TFd5Sai?G:bGbPB3
+l18
+L17
+V?FHc>3[dVF[M@hG`I4^L32
+R10
+32
+R32
+R33
+R34
+R14
+R15
+!s100 W8R1o:Lf8azicoM^WnmB[0
+!i10b 1
+Ediv_mod4
+Z35 w1544273414
+R2
+R3
+R4
+R1
+R5
+R6
+R7
+Z36 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd
+Z37 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd
+l0
+L11
+VBiO1MQRSU[>ZGb9XT_EcO3
+R10
+32
+Z38 !s108 1544288786.781000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd|
+Z40 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd|
+R14
+R15
+!s100 26YcC^ljJ>Z4_<<XkRDPm1
+!i10b 1
+Artl
+R2
+R3
+R4
+R1
+R5
+R6
+DEx4 work 8 div_mod4 0 22 BiO1MQRSU[>ZGb9XT_EcO3
+l21
+L18
+VNTjnMo>;<iBNCYcSb:;;P3
+R10
+32
+R38
+R39
+R40
+R14
+R15
+!s100 HUgUDPLYiS3NcJmml8CH=0
+!i10b 1
+Eextsgn
+Z41 w1544273049
+R1
+R2
+R5
+R6
+R7
+Z42 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd
+Z43 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd
+l0
+L7
+VWY@=IGn3mMg28g2_aJ=A?2
+R10
+32
+Z44 !s108 1544288787.176000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd|
+Z46 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd|
+R14
+R15
+!s100 =`nUO=0g4=YfORKdkd4[B0
+!i10b 1
+Awires
+R1
+R2
+R5
+R6
+DEx4 work 6 extsgn 0 22 WY@=IGn3mMg28g2_aJ=A?2
+l20
+L18
+VYYa1IdAVionYoF25LZ_:m2
+R10
+32
+R44
+R45
+R46
+R14
+R15
+!s100 ;O<mB1j5Keji?HUj4zglH3
+!i10b 1
+Einst_mem
+Z47 w1544273054
+Z48 DPx9 altera_mf 20 altera_mf_components 0 22 dN>@>Mze:JEj3f_7zNO2S2
+R2
+R1
+R5
+R6
+R7
+Z49 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd
+Z50 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd
+l0
+L13
+VT7IEeMXIaY9c2RUMLP4lC3
+R10
+32
+Z51 !s108 1544288787.566000
+Z52 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd|
+Z53 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd|
+R14
+R15
+!s100 gYJPQ:2AA?Z96A2LUlmeF3
+!i10b 1
+Artl
+R48
+R2
+R1
+R5
+R6
+DEx4 work 8 inst_mem 0 22 T7IEeMXIaY9c2RUMLP4lC3
+l65
+L25
+VhYZNF0UDOSNKgfF;_b]T^0
+R10
+32
+R51
+R52
+R53
+R14
+R15
+!s100 d@8aLJR4fBnRz_EUOgWW`2
+!i10b 1
+Emem_addr
+Z54 w1544273071
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z55 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd
+Z56 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd
+l0
+L15
+VfeSCa61P?LPj6NG[N>`NU1
+R10
+32
+Z57 !s108 1544288787.862000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd|
+Z59 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd|
+R14
+R15
+!s100 c<JC=XH8S>ERDgPUbQ>]l1
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 mem_addr 0 22 feSCa61P?LPj6NG[N>`NU1
+l25
+L24
+VfA_^D0>oP?ggV>1bD3]7E1
+R10
+32
+R57
+R58
+R59
+R14
+R15
+!s100 ai`F[C_iO=W0C9YBOG]^P1
+!i10b 1
+Emips_control
+Z60 w1544286814
+R1
+R2
+R5
+R6
+R7
+Z61 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd
+Z62 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd
+l0
+L5
+VU6FWPGVS1<l_P>TccFk:61
+R10
+32
+Z63 !s108 1544288788.455000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd|
+Z65 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd|
+R14
+R15
+!s100 m3]jdSzY_<NjaO9d;HRFB1
+!i10b 1
+Acontrol_op
+R1
+R2
+R5
+R6
+DEx4 work 12 mips_control 0 22 U6FWPGVS1<l_P>TccFk:61
+l47
+L30
+VmaHOHL3eg<ZN3AKAc9]@F0
+R10
+32
+R63
+R64
+R65
+R14
+R15
+!s100 dOJ3EZOPJWj3;h>og]dWZ2
+!i10b 1
+Emips_controlal
+Z66 w1544197618
+R5
+R6
+R7
+Z67 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd
+Z68 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd
+l0
+L4
+V]EfhiSi@04B?4nh:>9jfH1
+R10
+32
+Z69 !s108 1544288788.174000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd|
+Z71 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd|
+R14
+R15
+!s100 ;8mz8o;k>?GU5DN;M9aZY2
+!i10b 1
+Acontrol_op
+R5
+R6
+DEx4 work 14 mips_controlal 0 22 ]EfhiSi@04B?4nh:>9jfH1
+l25
+L23
+VelVCUm=hJ5<2T3m^mnZ7T3
+R10
+32
+R69
+R70
+R71
+R14
+R15
+!s100 LLa4<NH9]4:d=o6L2O>aV0
+!i10b 1
+Emips_mem
+Z72 w1544273079
+R48
+R2
+R1
+R5
+R6
+R7
+Z73 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd
+Z74 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd
+l0
+L13
+VX^2Xh;MHBW1<RkmoSOM1D1
+R10
+32
+Z75 !s108 1544288788.704000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd|
+Z77 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd|
+R14
+R15
+!s100 _U:U?J>O`0UgF4>[e4O>m1
+!i10b 1
+Artl
+R48
+R2
+R1
+R5
+R6
+DEx4 work 8 mips_mem 0 22 X^2Xh;MHBW1<RkmoSOM1D1
+l65
+L25
+VmbA:VE=DR=B5a^:z5dz<f0
+R10
+32
+R75
+R76
+R77
+R14
+R15
+!s100 N1WJ8d1DE9lJTT0FU7GUG0
+!i10b 1
+Emips_multi
+Z78 w1544287958
+R1
+R2
+R5
+R6
+R7
+Z79 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi.vhd
+Z80 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi.vhd
+l0
+L9
+V7QP^mRPXAgPDIa?ehNnXI1
+R10
+32
+Z81 !s108 1544288788.985000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi.vhd|
+Z83 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi.vhd|
+R14
+R15
+!s100 KA44DfCZ;jd;c6;lkd1Nb0
+!i10b 1
+Artl
+R1
+R2
+R5
+R6
+DEx4 work 10 mips_multi 0 22 7QP^mRPXAgPDIa?ehNnXI1
+l100
+L20
+V<1NBfY8FnO]_IEGOSZ62P0
+R10
+32
+R81
+R82
+R83
+R14
+R15
+!s100 VY^14>QhA>4e5f0KQ`DRE0
+!i10b 1
+Emips_multi_tb
+Z84 w1544233598
+R5
+R6
+R7
+Z85 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd
+Z86 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd
+l0
+L30
+V[V]@_Eo_K>@oL?6HF>2?L2
+R10
+32
+Z87 !s108 1544288789.258000
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd|
+Z89 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd|
+R14
+R15
+!s100 WVW2VgZgn0jgah=dXJ;PU3
+!i10b 1
+Amips_multi_arch
+R5
+R6
+DEx4 work 13 mips_multi_tb 0 22 [V]@_Eo_K>@oL?6HF>2?L2
+l52
+L33
+VTl?>f=faI?H>VM]^zO39B2
+R10
+32
+R87
+R88
+R89
+R14
+R15
+!s100 2:c;0<<E_^e=5_2EjISD60
+!i10b 1
+Pmips_pkg
+R1
+R5
+R6
+Z90 w1544197258
+R7
+Z91 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd
+Z92 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd
+l0
+L6
+VHo]kGz2aXHN9QKRLf1[?T3
+R10
+32
+Z93 !s108 1544288790.043000
+Z94 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd|
+Z95 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd|
+R14
+R15
+!s100 ;MbzJKGhKM^3WQ88ZXBFP1
+!i10b 1
+Bbody
+Z96 DPx4 work 8 mips_pkg 0 22 Ho]kGz2aXHN9QKRLf1[?T3
+R1
+R5
+R6
+l0
+L235
+V@d`[aJGDhmDk]7F38zcAK0
+R10
+32
+R93
+R94
+R95
+R14
+R15
+nbody
+!s100 QK>^OYbZD4Lk?f<[mXF<P2
+!i10b 1
+Emips_tb
+Z97 w1544273113
+R1
+R2
+R5
+R6
+R7
+Z98 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd
+Z99 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd
+l0
+L9
+VK<z5MDF`6e0lLES`gdRXI2
+R10
+32
+Z100 !s108 1544288789.778000
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd|
+Z102 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd|
+R14
+R15
+!s100 0zF[EhUM@EB=oEU<4^lCD3
+!i10b 1
+Atb
+R1
+R2
+R5
+R6
+DEx4 work 7 mips_tb 0 22 K<z5MDF`6e0lLES`gdRXI2
+l20
+L12
+V28gF5[CYgbTnAcU=Z6nAX2
+R10
+32
+R100
+R101
+R102
+R14
+R15
+!s100 X:KacPY1WA@@YWRSmXZWF1
+!i10b 1
+Emux_2
+Z103 w1544273128
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z104 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd
+Z105 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd
+l0
+L7
+V^=nIao]]`Saag4JB6DZ7n3
+R10
+32
+Z106 !s108 1544288790.287000
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd|
+Z108 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd|
+R14
+R15
+!s100 A3WS:^]nLoA42MD]Y>iIj2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 5 mux_2 0 22 ^=nIao]]`Saag4JB6DZ7n3
+l17
+L16
+VdbjhQn_V6<e=01lj[`=JQ1
+R10
+32
+R106
+R107
+R108
+R14
+R15
+!s100 _Km>z[SEJVi9731R6QH1i3
+!i10b 1
+Emux_2_signed
+Z109 w1544288781
+R2
+R1
+R3
+R4
+R5
+R6
+R7
+Z110 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd
+Z111 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd
+l0
+L8
+VFUO]D2ZhL9^=4bcBI587U0
+R10
+32
+Z112 !s108 1544288790.593000
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd|
+Z114 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd|
+R14
+R15
+!s100 lloKXIZe1ZUhh^j=bSHc<0
+!i10b 1
+Artl
+R2
+R1
+R3
+R4
+R5
+R6
+DEx4 work 12 mux_2_signed 0 22 FUO]D2ZhL9^=4bcBI587U0
+l18
+L17
+VocK2Oi<D9iWg_eA[=@??:3
+R10
+32
+R112
+R113
+R114
+R14
+R15
+!s100 MAbGnaZ1`2aHYP5CmM`jT0
+!i10b 1
+Emux_3
+Z115 w1544273135
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z116 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd
+Z117 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd
+l0
+L7
+VJ_C>dcPLlfGLj3hGRAl8l1
+R10
+32
+Z118 !s108 1544288790.843000
+Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd|
+Z120 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd|
+R14
+R15
+!s100 >kKed[DX65k0Af<kU3T4m2
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 5 mux_3 0 22 J_C>dcPLlfGLj3hGRAl8l1
+l18
+L17
+Vee^6FdjfiMY_8Zf?<F]iD0
+R10
+32
+R118
+R119
+R120
+R14
+R15
+!s100 8Ol>iX1kJcd]Zf`S`6g?h1
+!i10b 1
+Emux_4
+Z121 w1544273143
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd
+FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd
+l0
+L7
+VRi0j=Xh0e=ALg4[kjM2m;0
+R10
+32
+R14
+R15
+!s108 1544288791.108000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd|
+!s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd|
+!s100 G3i7D2l`nnjLMNI:P>F2Z0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 5 mux_4 0 22 Ri0j=Xh0e=ALg4[kjM2m;0
+Z122 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd
+Z123 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd
+l17
+L16
+VlG@g:_dM4g6hP_M@eQ<ni2
+R10
+32
+Z124 !s108 1544288791.857000
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd|
+Z126 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd|
+R14
+R15
+!s100 8SPiA@VYl8lQOMS1W[Oka1
+!i10b 1
+Emux_4_lb
+Z127 w1544275586
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z128 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd
+Z129 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd
+l0
+L7
+V94R5j:h4iQjcJzTHWiabO1
+R10
+32
+Z130 !s108 1544288791.358000
+Z131 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd|
+Z132 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd|
+R14
+R15
+!s100 ?doaZ^6e17;add]OY_X[o0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 mux_4_lb 0 22 94R5j:h4iQjcJzTHWiabO1
+l18
+L17
+VdHJPmf^YQ@^dnVZFGaWUk0
+R10
+32
+R130
+R131
+R132
+R14
+R15
+!s100 W1`Y3CS_bB2Ee[SGZa]Lc3
+!i10b 1
+Emux_4_lh
+Z133 w1544285027
+R1
+R2
+R3
+R4
+R5
+R6
+R7
+Z134 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd
+Z135 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd
+l0
+L7
+VjFUfk5[7NF_W<e0K_`ElM1
+R10
+32
+Z136 !s108 1544288791.607000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd|
+Z138 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd|
+R14
+R15
+!s100 B6?4fb_cB[GbX5heL;YzB0
+!i10b 1
+Artl
+R1
+R2
+R3
+R4
+R5
+R6
+DEx4 work 8 mux_4_lh 0 22 jFUfk5[7NF_W<e0K_`ElM1
+l18
+L17
+V:@Y6V3JW@`Xl]RI[VLngo1
+R10
+32
+R136
+R137
+R138
+R14
+R15
+!s100 _IodNW3bgl:<JLJO86cBJ3
+!i10b 1
+Emux_n
+R90
+R1
+R96
+R3
+R4
+R5
+R6
+R7
+R122
+R123
+l0
+L6
+VTPz9Ubiakb;6S5;:8S6VS3
+R10
+32
+R124
+R125
+R126
+R14
+R15
+!s100 g_L4>H4RVIBGL<zC>3^PG0
+!i10b 1
+Ppack
+R1
+R5
+R6
+Z139 w1544286812
+R7
+Z140 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd
+Z141 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd
+l0
+L7
+VbC1SC6DQjz=W`Cm;14k302
+R10
+32
+Z142 !s108 1544288792.138000
+Z143 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd|
+Z144 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd|
+R14
+R15
+!s100 P60nSBg;QJOM_Pl`^0CRF0
+!i10b 1
+Bbody
+R2
+R1
+R5
+R6
+l0
+L321
+VCWz8E2[2Be`RdEHY4T34G1
+R10
+32
+R142
+R143
+R144
+R14
+R15
+nbody
+!s100 K9@i8nJ?SWnADFB`ZR[5a2
+!i10b 1
+Ereg
+R29
+R5
+R6
+R7
+Z145 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd
+Z146 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd
+l0
+L7
+VEP8@o]DW1W_2G:f7h1U`V1
+R10
+32
+Z147 !s108 1544288792.387000
+Z148 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd|
+Z149 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd|
+R14
+R15
+!s100 VzGUjc>85]Tl_V^;DRB]42
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 3 reg 0 22 EP8@o]DW1W_2G:f7h1U`V1
+l25
+L21
+VL9dT5J_=[gL>iI0fb1lOi2
+R10
+32
+R147
+R148
+R149
+R14
+R15
+!s100 m3b>>X::ZgKUNcA2PKKXY1
+!i10b 1
+Ereg32
+R29
+R5
+R6
+R7
+Z150 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd
+Z151 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd
+l0
+L7
+VcNBg2HTNazVXNoX0T[j@K1
+R10
+32
+Z152 !s108 1544288792.621000
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd|
+Z154 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd|
+R14
+R15
+!s100 Y<YFn2oYbbe5AY^`mi8jn2
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 5 reg32 0 22 cNBg2HTNazVXNoX0T[j@K1
+l20
+L19
+Vh`an<14T0`^Yh@mejA<lk1
+R10
+32
+R152
+R153
+R154
+R14
+R15
+!s100 C]dL`XKSC0WTAk_g<[eeT0
+!i10b 1
+Eregbuf
+R90
+R5
+R6
+R7
+Z155 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd
+Z156 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd
+l0
+L7
+VaPTiOVWC3GTSoP7@?n99B1
+R10
+32
+Z157 !s108 1544288792.878000
+Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd|
+Z159 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd|
+R14
+R15
+!s100 4C6SegQn=jTK3[3EB`?oA1
+!i10b 1
+Artl
+R5
+R6
+DEx4 work 6 regbuf 0 22 aPTiOVWC3GTSoP7@?n99B1
+l20
+L19
+V_Y:S]nB3]?KDH6MO01HC]2
+!s100 dU0zZFiXlE=gIaOd@PWTE1
+R10
+32
+R157
+R158
+R159
+R14
+R15
+!i10b 1
+Eulamips
+Z160 w1544248729
+R2
+R1
+R5
+R6
+R7
+Z161 8C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd
+Z162 FC:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd
+l0
+L7
+VL_WNAFhJRHKdm?gk4ia=I0
+!s100 V:e1IdFaleB@?0F@zZegX1
+R10
+32
+!i10b 1
+Z163 !s108 1544288793.081000
+Z164 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd|
+Z165 !s107 C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd|
+R14
+R15
+Abehavioral
+R2
+R1
+R5
+R6
+Z166 DEx4 work 7 ulamips 0 22 L_WNAFhJRHKdm?gk4ia=I0
+l25
+L20
+Z167 VSzaTJNkzeU2YcU2B8PJg`2
+Z168 !s100 HfE9Kf^SQC`WV5ea0_Uo]1
+R10
+32
+!i10b 1
+R163
+R164
+R165
+R14
+R15

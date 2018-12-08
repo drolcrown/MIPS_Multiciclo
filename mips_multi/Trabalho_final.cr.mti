@@ -1,0 +1,289 @@
+C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_2
+-- Compiling architecture rtl of mux_2
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_2_signed.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_2_signed
+-- Compiling architecture rtl of mux_2_signed
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_3.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_3
+-- Compiling architecture rtl of mux_3
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/clk_div.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity clk_div
+-- Compiling architecture rtl of clk_div
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_4
+-- Compiling architecture rtl of mux_4
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_uni_pkg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package mips_pkg
+-- Compiling package body mips_pkg
+-- Loading package mips_pkg
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mips_tb
+-- Compiling architecture tb of mips_tb
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/pack.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package pack
+-- Compiling package body pack
+-- Loading package pack
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lh.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_4_lh
+-- Compiling architecture rtl of mux_4_lh
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/breg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity breg
+-- Compiling architecture rtl of breg
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/extsgn.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity extsgn
+-- Compiling architecture wires of extsgn
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_control.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mips_control
+-- Compiling architecture control_op of mips_control
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/alu_ctr.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity alu_ctr
+-- Compiling architecture behav of alu_ctr
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd {2 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity ulamips
+-- Compiling architecture behavioral of ulamips
+** Warning: C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/ulamips.vhd(44): (vcom-1074) Non-locally static OTHERS choice is allowed only if it is the only choice of the only association.
+
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/regbuf.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity regbuf
+-- Compiling architecture rtl of regbuf
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32
+-- Compiling architecture rtl of reg32
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/inst_mem.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Loading package altera_mf_components
+-- Compiling entity inst_mem
+-- Compiling architecture rtl of inst_mem
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/reg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture rtl of reg
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/div_mod4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package pack
+-- Compiling entity div_mod4
+-- Compiling architecture rtl of div_mod4
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_n.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package mips_pkg
+-- Compiling entity mux_n
+-- Compiling architecture rtl of mux_4
+-- Loading package pack
+-- Loading entity mux_4
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_mem.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Loading package altera_mf_components
+-- Compiling entity mips_mem
+-- Compiling architecture rtl of mips_mem
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_multi_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mips_multi_tb
+-- Compiling architecture mips_multi_arch of mips_multi_tb
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/adder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity adder
+-- Compiling architecture rtl of adder
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mem_addr.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mem_addr
+-- Compiling architecture rtl of mem_addr
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mux_4_lb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Loading package pack
+-- Compiling entity mux_4_lb
+-- Compiling architecture rtl of mux_4_lb
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_pkg.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_pkg.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package mips_pkg
+-- Compiling package body mips_pkg
+-- Loading package mips_pkg
+
+} {} {}} C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd {1 {vcom -work work -2002 -explicit C:/Users/rafael.fsouza/Documents/OAC/Trabalho_Final/mips_controal.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mips_controlal
+-- Compiling architecture control_op of mips_controlal
+
+} {} {}}
